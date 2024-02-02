@@ -4,7 +4,7 @@
 This is simply a C# application that will list you system components [MADE IN 15 MINUTES]
 
 
-## Authors
+## Contact info
 
 - Github = [@Fast-Voider](https://www.github.com/Fast-Voider)
 - Vacban = [@xen0](https://vacban.wtf/members/70676/)
